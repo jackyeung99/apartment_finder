@@ -75,7 +75,7 @@ platformdirs==4.2.2
 playwright==1.46.0
 prompt_toolkit==3.0.47
 Protego==0.3.1
-protobuf==4.25.4
+protobuf==4.25.8
 psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
